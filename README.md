@@ -2,7 +2,7 @@
 
 **Intern:** Saif Ullah  
 **Organization:** DevelopersHub Corporation  
-**Domain:** Artificial Intelligence & Machine Learning
+**Domain:** Artificial Intelligence
 
 ---
 
