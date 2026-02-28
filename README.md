@@ -162,24 +162,6 @@ Predict **median house values** for California districts using demographic and g
 - **Median income** is overwhelmingly the single strongest predictor of house prices (53% importance)
 - Houses near the ocean command significantly higher prices than inland properties
 - Gradient Boosting reduced prediction error by **36%** over Linear Regression (MAE: $32K vs $50K)
-
----
-
-## 🛠️ Tech Stack
-
-```
-Python 3.x
-├── Data Handling:      pandas, numpy
-├── Visualization:      matplotlib, seaborn
-├── Machine Learning:   scikit-learn
-│   ├── Models:         LinearRegression, RandomForestRegressor,
-│   │                   GradientBoostingRegressor, LogisticRegression,
-│   │                   DecisionTreeClassifier
-│   └── Utilities:      train_test_split, StandardScaler, metrics
-└── Data Sources:       yfinance (Yahoo Finance), seaborn datasets,
-                        UCI ML Repository, StatLib
-```
-
 ---
 
 > 📌 *All tasks were completed as part of the AI/ML Engineering Internship at **DevelopersHub Corporation**.*
