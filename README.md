@@ -6,16 +6,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Task 1 — Exploring & Visualizing a Dataset](#task-1--exploring--visualizing-a-dataset)
-- [Task 2 — Stock Price Prediction](#task-2--stock-price-prediction)
-- [Task 3 — Heart Disease Prediction](#task-3--heart-disease-prediction)
-- [Task 6 — House Price Prediction](#task-6--house-price-prediction)
-- [Tech Stack](#tech-stack)
-
----
-
 ## Task 1 — Exploring & Visualizing a Dataset
 
 ### 🎯 Objective
